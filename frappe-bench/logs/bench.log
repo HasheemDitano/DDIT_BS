@@ -46,3 +46,8 @@
 2024-10-29 13:09:21,493 INFO /home/frappe/.local/bin/bench watch
 2024-10-29 13:09:21,517 INFO /home/frappe/.local/bin/bench worker
 2024-10-29 13:09:21,580 INFO /home/frappe/.local/bin/bench schedule
+2024-10-29 13:21:05,115 INFO /home/frappe/.local/bin/bench start
+2024-10-29 13:21:05,657 INFO /home/frappe/.local/bin/bench schedule
+2024-10-29 13:21:05,856 INFO /home/frappe/.local/bin/bench worker
+2024-10-29 13:21:05,958 INFO /home/frappe/.local/bin/bench serve --port 8000
+2024-10-29 13:21:05,993 INFO /home/frappe/.local/bin/bench watch
